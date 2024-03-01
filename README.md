@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://yagmur-nielsen.netlify.app/](https://yagmur-nielsen.netlify.app/)
 
 - 📫 How to reach me **yagmureva4@gmail.com**
+  
+- Codewars link https://www.codewars.com/users/yagmureva/badges/large
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
