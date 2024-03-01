@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yagmur</h1>
-<h3 align="center">A passionate frontend developer based in Copenhagen,Denmark</h3>
+<h3 align="center">A passionate frontend developer based in Copenhagen, Denmark</h3>
 
 - 🌱 I’m currently learning from **HackYourFuture Denmark**
 
