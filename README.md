@@ -1,5 +1,6 @@
-
-<img align="center" alt="coding" width="150" length="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdkODVycjN5dTJ3ZWx2cnVrc2hjYjRrOG5qd3l0cGJnbnM1Z3U1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"/>
+<p align="center">
+<img  alt="coding" width="150" length="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdkODVycjN5dTJ3ZWx2cnVrc2hjYjRrOG5qd3l0cGJnbnM1Z3U1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"/>
+</p>
 <h1 align="center">Hi 👋, I'm Yagmur</h1>
 <h3 align="center">A passionate frontend developer based in Copenhagen, Denmark</h3>
 
