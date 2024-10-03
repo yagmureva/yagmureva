@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yagmur</h1>
 <h3 align="center">A passionate frontend developer based in Copenhagen, Denmark</h3>
 
-- 🌱 I’m currently learning from **HackYourFuture Denmark**
+- 🌱 I’m graduated from **HackYourFuture Denmark**
 
 - 📫 How to reach me **yagmureva4@gmail.com**
   
