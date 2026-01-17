@@ -7,8 +7,7 @@
 - 🌱 I’m graduated from **HackYourFuture Denmark**
 
 - 📫 How to reach me **yagmureva4@gmail.com**
-  
-- Codewars link https://www.codewars.com/users/yagmureva/badges/large
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
